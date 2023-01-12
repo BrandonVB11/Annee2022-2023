@@ -4,7 +4,7 @@ Cours de l'année 2022-2023 IPL
 =             Q1              =
 ===============================
 => Exo de revison Algo ( pas encore fait)
-=>Exo de revision Math1;
+=> Exo de revision Math1 ( code sur InteliJ);
 => Synthese de ceratins:
     -> Ergonomie Web;
     -> UML;
