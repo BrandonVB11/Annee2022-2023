@@ -53,7 +53,14 @@ public class Equipe {
 	 * @return le candidat qui vient d'etre supprime ou null si la table ne contient plus de candidat
 	 */
 	public String selectionnerCandidat(){
-		//TODO
+		for (int i = 0; i < tableCandidats.length; i++) {
+			String premier = tableCandidats[i];
+			nombreCandidatsEnJeu--;
+			return premier;
+		}
+		for (int i = 1; i < nombreCandidatsEnJeu; i++) {
+			tableCandidats[i] = tableCandidats[i+1];
+		}
 		return null;
 	}
 	

@@ -49,8 +49,10 @@ public class EquipeGuerriers {
 	 * @throws NoSuchElementException si tous les guerriers sont morts
 	 */
 	public int donnerNumeroProchainGuerrier() {
-		//TODO
-		return 0;
+		if(nombreGuerriersEnVie == 0){
+			throw new NoSuchElementException();
+		}
+		return tableGuerriers[nombreGuerriersEnVie-1].getNumero();
 	}
 
 	/**
@@ -62,8 +64,21 @@ public class EquipeGuerriers {
 	 * @throws IllegalArgumentException si le nombre de points de vie perdus est negatif
 	 */
 	public int recevoirDegats(int pointsDeViePerdus){
-		//TODO
-		return 0;
+		if (nombreGuerriersEnVie == 0){
+			throw new NoSuchElementException();
+		}
+		if (pointsDeViePerdus < 0){
+			throw new IllegalArgumentException();
+		}
+		int pointDeVie = tableGuerriers[donnerNumeroProchainGuerrier()].getPointsDeVie();
+		pointDeVie -= pointsDeViePerdus;
+		tableGuerriers[donnerNumeroProchainGuerrier()].retirerPointsDeVie(pointsDeViePerdus);
+
+		if(pointDeVie == 0){
+			for (int i = tableGuerriers.length; i > 0 ; i++) {
+				Guerrier temp
+			}
+		}
 	}
 
 	/**
@@ -72,8 +87,11 @@ public class EquipeGuerriers {
 	 * @return la table avec les guerriers en vie
 	 */
 	public Guerrier[] tableGuerriersEnVie(){
-		//TODO
-		return null;
+		Guerrier[] newTable = new Guerrier[nombreGuerriersEnVie];
+		for (int i = 0; i <nombreGuerriersEnVie ; i++) {
+			newTable[i] = tableGuerriers[i];
+		}
+		return newTable;
 	}
 
 	/**
@@ -82,8 +100,11 @@ public class EquipeGuerriers {
 	 * @return la table avec les guerriers morts
 	 */
 	public Guerrier[] tableGuerriersMorts(){
-		//TODO
-		return null;
+		Guerrier[] newTable = new Guerrier[tableGuerriers.length-nombreGuerriersEnVie];
+		for (int i = 0; i <newTable.length ; i++) {
+			newTable[i] = tableGuerriers[nombreGuerriersEnVie+i];
+		}
+		return newTable;
 	}
 
 	/**

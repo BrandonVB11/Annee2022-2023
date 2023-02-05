@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algo.iml" filepath="$PROJECT_DIR$/.idea/Algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Janvier2022/Janvier2022.iml" filepath="$PROJECT_DIR$/Janvier2022/Janvier2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juin2022/Juin2022.iml" filepath="$PROJECT_DIR$/Juin2022/Juin2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie/theorie.iml" filepath="$PROJECT_DIR$/theorie/theorie.iml" />
+    </modules>
+  </component>
+</project>
