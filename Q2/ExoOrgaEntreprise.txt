@@ -1,3 +1,99 @@
 Exercices Orga Entreprise :
 ---------------------------
 
+===========================================================
+calculer le salaiare mensuel burt & salaire annuel brut ?
+===========================================================
+journalier brut = 100€
+
+nombre de jour de travail = 6 jours
+
+salaire mensuel brut = 2600,00€
+
+salaire annuel brut = 33800,00€
+
+semaine => trismetre => mois
+trismettre = 13 semaines = 3 mois
+
+semaine = 6x100 = 600,00€
+
+trismettre = 13x600 = 7800€
+
+mois = 78000/3 = 2600,00€
+
+annuel brut = moisx13 = 33800,00€
+==============================================================
+Est ce intéressant pour lui changer d'emploi ?
+==============================================================
+Emploi 1 :
+----------
+
+salaire mensuel Brut = 2600,00 €
+		(13,07%)-ons = 339,82
+		-----------------------
+Salaire imposable   = 2260,18
+	- precompte pro = 591,95€
+	------------------------------
+Salaire Net 		= 1668,23€
+
+----------
+Emploi 2 :
+----------
+Salaire annuel = 33,408€
+			/13,92
+-------------------------
+salaire mensuel brut = 2400,00€
+				-ons = 313,68€
+				---------------
+				2086,32€
+-precompte pro 	508,65€
+				----------------
++frais fortaitaire 157,00€
+					--------------
+Salaire Net			1734,67€
+
+
+L'emploi 2 est plus interresant que l'emploi 1 car il gagne	66,44€ de plus dans son salaire net
+que l'autre.				
+=============================================================
+Exam Juin 2022 : laquelle société est la plus interresante ?	
+=============================================================
+Société A :
+------------
+jours = 125,4€
+
+semaine = 627,00€
+
+trismetre = 13x627 = 8151,00€
+
+mois = 8151/3 = 2717,00€
+
+Salaire annuel brut = 13x2717 = 35321,00€
+
+Salaire mensuel brut = 2717,00€
+				-ons = 355,11€
+				------------------
+Salaire imposable = 2361,89€
+-precompte pro = 462,39€
+				------------------
+Salaire net    = 1899,30€
+
+-----------
+Société B :
+-----------
+Salaire annuel brut = 36540,00€
+					/13,92
+					------------
+Salaire mensuel Brut = 2625,00€
+				-ons =	342,09€
+				----------------
+Salaire imposable = 2281,91€
+-precompte pro   = 433,50
+				-----------------
+jour prestete 5j/sem x13 / 3 = 21,6 arrondi à 21 ou 22 ( mais faut expliquer)
+		ou
+365j/an /7 x5 -10j -20j = 231 jours
+
+
+
+===============================================================
