@@ -93,7 +93,8 @@ Salaire imposable = 2281,91€
 jour prestete 5j/sem x13 / 3 = 21,6 arrondi à 21 ou 22 ( mais faut expliquer)
 		ou
 365j/an /7 x5 -10j -20j = 231 jours
-
-
-
+-participation (21 jours)x1,09 = 22,89
+				-------------------------
+Salaire net     = 1825,52€
+Cheque Repaire = 7,1x21= 149,10€
 ===============================================================
