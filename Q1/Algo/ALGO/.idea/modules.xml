@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ALGO.iml" filepath="$PROJECT_DIR$/.idea/ALGO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALGO_InitiationTables/ALGO_InitiationTables.iml" filepath="$PROJECT_DIR$/ALGO_InitiationTables/ALGO_InitiationTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALGO_for/ALGO_for.iml" filepath="$PROJECT_DIR$/ALGO_for/ALGO_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALGO_forDansFor/ALGO_forDansFor.iml" filepath="$PROJECT_DIR$/ALGO_forDansFor/ALGO_forDansFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALGO_if/ALGO_if.iml" filepath="$PROJECT_DIR$/ALGO_if/ALGO_if.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALGO_methodes/ALGO_methodes.iml" filepath="$PROJECT_DIR$/ALGO_methodes/ALGO_methodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALGO_projet1/ALGO_projet1.iml" filepath="$PROJECT_DIR$/ALGO_projet1/ALGO_projet1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALGO_projet2/ALGO_projet2.iml" filepath="$PROJECT_DIR$/ALGO_projet2/ALGO_projet2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALGO_while/ALGO_while.iml" filepath="$PROJECT_DIR$/ALGO_while/ALGO_while.iml" />
+    </modules>
+  </component>
+</project>
