@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chatbot Page</title>
+  <link rel="icon" href="./img/favicon.svg" type="image/svg+xml" />
+</head>
+<body>
+  <header></header>
+  <main>
+    <!-- Première étape : Formulaire de question/réponse -->
+    <form id="step1Form">
+      <div class="mb-3">
+        <label for="question" class="form-label">Question</label>
+        <input type="text" class="form-control" id="question" aria-describedby="questionHelp">
+      </div>
+      <div class="mb-3">
+        <label for="response" class="form-label">Réponse</label>
+        <input type="text" class="form-control" id="response">
+      </div>
+      <button type="submit" class="btn btn-primary">Enregistrer et Passer à l'étape suivante</button>
+    </form>
+
+    <!-- Deuxième étape : Formulaire de recherche -->
+    <form id="step2Form">
+      <div class="mb-3">
+        <label for="searchQuestion" class="form-label">Rechercher une question</label>
+        <input type="text" class="form-control" id="searchQuestion" aria-describedby="searchQuestionHelp">
+      </div>
+      <button type="submit" class="btn btn-primary">Rechercher</button>
+    </form>
+
+    <!-- Affichage des résultats et conversation -->
+    <div id="conversation"></div>
+  </main>
+  <footer></footer>
+</body>
+</html>

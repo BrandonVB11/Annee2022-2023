@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bleu Juin2021/Bleu Juin2021.iml" filepath="$PROJECT_DIR$/Bleu Juin2021/Bleu Juin2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jaune Juin2021/Jaune Juin2021.iml" filepath="$PROJECT_DIR$/Jaune Juin2021/Jaune Juin2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juin2022/Juin2022.iml" filepath="$PROJECT_DIR$/Juin2022/Juin2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Revision SD.iml" filepath="$PROJECT_DIR$/.idea/Revision SD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rouge Juin2021/Rouge Juin2021.iml" filepath="$PROJECT_DIR$/Rouge Juin2021/Rouge Juin2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1 a refaire/S1 a refaire.iml" filepath="$PROJECT_DIR$/S1 a refaire/S1 a refaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2/S2.iml" filepath="$PROJECT_DIR$/S2/S2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S3/S3.iml" filepath="$PROJECT_DIR$/S3/S3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4/S4.iml" filepath="$PROJECT_DIR$/S4/S4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5/S5.iml" filepath="$PROJECT_DIR$/S5/S5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6/S6.iml" filepath="$PROJECT_DIR$/S6/S6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Septembre2019/Septembre2019.iml" filepath="$PROJECT_DIR$/Septembre2019/Septembre2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Septembre2020/Septembre2020.iml" filepath="$PROJECT_DIR$/Septembre2020/Septembre2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Septembre2021/Septembre2021.iml" filepath="$PROJECT_DIR$/Septembre2021/Septembre2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Septembre2022/Septembre2022.iml" filepath="$PROJECT_DIR$/Septembre2022/Septembre2022.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,55 @@
+### 2.1) get a new game without filtering the level
+
+{
+    id: 1,
+    level: easy,
+    score: 0,
+    user: {
+        id: 1,
+        name: "Zlantan Ibrahimovic"
+    }
+}
+
+### 2.1) get a new game for a specific level
+    
+    {
+        id: 2,
+        level: medium,
+        score: 0,
+        user: {
+            id: 2,
+            name: "Cristiano Ronaldo"
+        }
+    }
+
+### 2.2) create a new game result for a user
+
+{
+    id: 3,
+    level: 1,
+    score: 2,
+    user: {
+        id: 2,
+        name: "Cristiano Ronaldo"
+    }
+}
+
+#### 2.2.a) create the game result by providing a correct score for a user
+{
+    id: 4,
+    level: medium,
+    score: 3,
+    user: {
+        id: 1,
+        name: "Zlantan Ibrahimovic"
+    }
+}
+#### 2.2.b) try to create the game result by provinding a wrong score for a user
+{
+    id: 5,
+    level: hard,
+    score: 0,
+    user: {
+        id: 3,
+        name: "Lionel Messi"
+    }
